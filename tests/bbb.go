@@ -9,4 +9,5 @@ func main() {
 	// tell time
 	start := time.Now()
 	fmt.Println("Start:", start)
+	fmt.Println("Test:", start)
 }
