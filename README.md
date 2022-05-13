@@ -1,3 +1,10 @@
+# Usage
+```bash
+go mod init github.com/wrzonki/go-lang-tuts
+go run main.go
+go build main.go
+```
+
 # Unit tests
 ```bash
 go test
